@@ -1,0 +1,12 @@
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\bin\Debug\netcoreapp2.1\SandIDE.deps.json
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\bin\Debug\netcoreapp2.1\SandIDE.runtimeconfig.json
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\bin\Debug\netcoreapp2.1\SandIDE.runtimeconfig.dev.json
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\bin\Debug\netcoreapp2.1\SandIDE.dll
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\bin\Debug\netcoreapp2.1\SandIDE.pdb
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\obj\Debug\netcoreapp2.1\SandIDE.csprojAssemblyReference.cache
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\obj\Debug\netcoreapp2.1\SandIDE.AssemblyInfoInputs.cache
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\obj\Debug\netcoreapp2.1\SandIDE.AssemblyInfo.cs
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\obj\Debug\netcoreapp2.1\SandIDE.csproj.CoreCompileInputs.cache
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\obj\Debug\netcoreapp2.1\SandIDE.dll
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\obj\Debug\netcoreapp2.1\SandIDE.pdb
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\obj\Debug\netcoreapp2.1\SandIDE.genruntimeconfig.cache

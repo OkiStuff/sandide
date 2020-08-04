@@ -1,0 +1,15 @@
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\bin\Release\netcoreapp2.1\win10-x64\SandIDE.exe
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\bin\Release\netcoreapp2.1\win10-x64\SandIDE.deps.json
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\bin\Release\netcoreapp2.1\win10-x64\SandIDE.runtimeconfig.json
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\bin\Release\netcoreapp2.1\win10-x64\SandIDE.runtimeconfig.dev.json
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\bin\Release\netcoreapp2.1\win10-x64\SandIDE.dll
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\bin\Release\netcoreapp2.1\win10-x64\SandIDE.pdb
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\obj\Release\netcoreapp2.1\win10-x64\SandIDE.csprojAssemblyReference.cache
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\obj\Release\netcoreapp2.1\win10-x64\SandIDE.AssemblyInfoInputs.cache
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\obj\Release\netcoreapp2.1\win10-x64\SandIDE.AssemblyInfo.cs
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\obj\Release\netcoreapp2.1\win10-x64\SandIDE.csproj.CoreCompileInputs.cache
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\obj\Release\netcoreapp2.1\win10-x64\SandIDE.dll
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\obj\Release\netcoreapp2.1\win10-x64\SandIDE.pdb
+C:\Users\coolg\RiderProjects\SandIDE\SandIDE\obj\Release\netcoreapp2.1\win10-x64\SandIDE.genruntimeconfig.cache
